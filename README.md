@@ -1,2 +1,2 @@
 # simon-game https://swatisriva1.github.io/simon-game/
-Digital version of the game Simon (https://en.wikipedia.org/wiki/Simon_(game)). Uses jQuery alongside pure JavaScript to create several modular functions encompassing the logic of the game. HTML/CSS template from the App Brewery (https://www.appbrewery.co/p/web-development-course-resources).
+Digital version of the game Simon (https://en.wikipedia.org/wiki/Simon_(game)). Uses jQuery alongside pure JavaScript to create several modular functions encompassing the logic of the game. Also uses jQuery/JavaScript to create simple animations and play sounds in the game. HTML/CSS template from the App Brewery (https://www.appbrewery.co/p/web-development-course-resources).
